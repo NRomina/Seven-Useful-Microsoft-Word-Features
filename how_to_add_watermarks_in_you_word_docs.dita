@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_add_watermarks_in_you_word_docs">
+    <title>How to Add Watermarks in Your Word Docs</title>
+    <shortdesc>Here you will find out how to add watermarks in Microsoft Word documents.</shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>On the <i>Design</i> tab, select <i>Watermark.</i></cmd>
+                <info><image href="pic%201.jpg" id="image_emk_qh2_z1c"/></info>
+            </step>
+            <step>
+                <cmd>The <i>Watermark</i> menu opens and offers some ready-made watermarks such as
+                    "Confidential" or "Do not Copy". Choose the one you prefer.</cmd>
+            </step>
+            <step>
+                <cmd>If you want to use your own design, click on <i>Custom Watermark</i>, and add
+                    the logo or text you want.</cmd>
+                <info><image href="pic%202.jpg" id="image_qmc_zj2_z1c"/></info>
+            </step>
+        </steps>
+        <result id="result_zk4_jk2_z1c">You have added a watermark to your Microsoft Word
+            document.</result>
+    </taskbody>
+</task>

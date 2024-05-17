@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_sign_your_name_in_a_word_document">
+    <title>How to Sign Your Name in a Word Document</title>
+    <shortdesc>Learn how to add your signature in a Microsoft Word document.</shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>First, click on the <i>Insert</i> tab above the toolbar. Next, in the
+                        <i>Lines</i> section of the <i>Shapes</i> dropdown menu, click on
+                        <i>Scribble.</i></cmd>
+                <info><image href="pic%206.jpg" id="image_gk2_d1g_z1c"/></info>
+            </step>
+            <step>
+                <cmd>After you click on <i>Scribble</i>, your cursor turns into a drawing tool.
+                    Finally, drag your mouse to sign your name.</cmd>
+                <info><image href="pic%207.jpg" id="image_fyd_v1g_z1c"/></info>
+            </step>
+        </steps>
+        <result id="result_psc_x1g_z1c">You have signed your name in your Word document.</result>
+    </taskbody>
+</task>

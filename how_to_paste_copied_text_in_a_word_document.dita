@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_paste_copied_text_in_a_word_document">
+    <title>How to Paste Copied Text in a Word Document</title>
+    <shortdesc>Here you will learn how to paste copied portions of text, that is, how to reuse
+        clipboard items that you copied or cut throughout the day.</shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Go to the <i>Home</i> tab and click the arrow on the bottom right of the
+                        <i>Clipboard</i> section of the ribbon.</cmd>
+                <info><image href="pic%2011.jpg" id="image_omz_c34_z1c"/></info>
+            </step>
+            <step>
+                <cmd>The clipboard history displays in a side pane on the left. From there, you can
+                    review the items, select one to reuse it, paste them all, or clear the
+                    history.</cmd>
+                <info><image href="pic%2012.jpg" id="image_smf_cj4_z1c"/></info>
+            </step>
+        </steps>
+        <result id="result_ckn_2j4_z1c">You can reuse portions of text without copying or cutting
+            and pasting.</result>
+    </taskbody>
+</task>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_write_with_no_distractions">
+    <title>How to Write with No Distractions</title>
+    <shortdesc>Here you will find information about <i>Focus</i>, a Word feature that allows to
+        write your documents using your full attention.</shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Go to the <i>View</i> tab.</cmd>
+            </step>
+            <step>
+                <cmd>Hit <i>Focus.</i></cmd>
+                <info><image href="pic%2013.jpg" id="image_zsg_wcw_z1c"/></info>
+                <info><image href="pic%2014.jpg" id="image_ppm_3dw_z1c"/></info>
+            </step>
+        </steps>
+        <result id="result_nwz_3dw_z1c">Your document takes over the entire screen with no ribbon,
+            status bar, or anything else to get in the way of your concentration.</result>
+    </taskbody>
+</task>

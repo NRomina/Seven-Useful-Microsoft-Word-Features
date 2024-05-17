@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Seven Useful Microsoft Word Features</title>
+    <topichead navtitle="Add Watermarks">
+        <topicref href="how_to_add_watermarks_in_you_word_docs.dita"/>
+    </topichead>
+    <topichead navtitle="Protect Documents wit a Password">
+        <topicref href="how_to_protect_documents_with_a_password.dita"/>
+    </topichead>
+    <topichead navtitle="Sign your Name">
+        <topicref href="how_to_sign_your_name_in_a_word_document.dita"/>
+    </topichead>
+    <topichead navtitle="Smart Lookup for Unfamiliar Words or Phrases">
+        <topicref href="How%20To%20Look%20up%20Unfamiliar%20Word%20or%20Phrases.dita"/>
+    </topichead>
+    <topichead navtitle="Paste Copied Text">
+        <topicref href="what_is_the_clipboard_tool_in_microsoft_word.dita"/>
+        <topicref href="how_to_paste_copied_text_in_a_word_document.dita"/>
+    </topichead>
+    <topichead navtitle="Write with No Distractions">
+        <topicref href="how_to_write_with_no_distractions.dita"/>
+    </topichead>
+</map>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="what_is_the_clipboard_tool_in_microsoft_word">
+    <title>What is the Clipboard tool in Microsoft Word?</title>
+    <shortdesc>Here you will find out about the Clipboard tool in Microsoft Word.</shortdesc>
+    <conbody>
+        <p>The Clipboard tool allows you to insert portions of text, like names, addresses,
+            instructions, etc. in a Word document, instead of cutting or copying and pasting.</p>
+        <p>The clipboard in Microsoft Word holds up to 24 items at one time. This means that all of
+            those things you cut or copied throughout the day are just a click away.</p>
+    </conbody>
+</concept>

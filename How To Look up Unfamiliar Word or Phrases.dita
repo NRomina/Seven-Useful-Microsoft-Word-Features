@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="smart_lookup_for_unfamiliar_words_or_phrases">
+    <title>How to Look Up Unfamiliar Words or Phrases</title>
+    <shortdesc>Whenever you don't know the meaning of a word or phrase, you can resort to the Smart
+        Lookup feature of Microsoft Word to check it. In this section, you will find out
+        how.</shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Select the word or phrase.</cmd>
+                <info><image href="pic%208.jpg" id="image_l25_s14_z1c"/></info>
+            </step>
+            <step>
+                <cmd>Right-click the selected term, then choose <i>Search.</i></cmd>
+                <info><image href="pic%209.jpg" id="image_jj3_mb4_z1c"/></info>
+            </step>
+            <step>
+                <cmd>The results pane opens showing more information about that word or phrase,
+                    including definitions, Wikipedia articles, and top related searches from the
+                    web.</cmd>
+                <info><image href="pic%2010.jpg" id="image_wjl_nc4_z1c"/></info>
+            </step>
+        </steps>
+        <result id="result_yzv_4c4_z1c">You are able to learn the meaning of a particular word or
+            phrase. </result>
+    </taskbody>
+</task>
